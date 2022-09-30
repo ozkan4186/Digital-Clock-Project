@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: chartreuse;
+}
+.main{
+    border: 3px solid red;
+    background-color: aqua;
+    margin: 10rem 10rem;
+   max-width: 40%;
+    padding: 6rem 3rem;
+}
