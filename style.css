@@ -5,11 +5,20 @@
 }
 body{
     background-color: chartreuse;
+    background-image:url(https://img.wallpapic.com/i2091-435-519/medium/sanat-dijital-soyut-cizim-duvar-kagidi.jpg);
+    background-size:cover;
 }
 .main{
     border: 3px solid red;
     background-color: aqua;
     margin: 10rem 10rem;
-   max-width: 40%;
+    max-width: 40%;
     padding: 6rem 3rem;
+    font-size: 5rem;
+    font-family: 'Bungee Spice',
+    cursive;
+    box-shadow: 0 0 5px #1a0236,
+    0 0 25px #32047c,
+    0 0 40px #620e92,
+    0 0 60px #6b2786;
 }
